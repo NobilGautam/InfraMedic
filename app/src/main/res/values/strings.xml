@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">InfraMedic</string>
+    <string-array name="hospital_name">
+        <item></item>
+        <item>All India Institute of Medical Sciences (AIIMS), Delhi</item>
+        <item>Fortis Hospital, Kolkata</item>
+        <item>Indraprastha Apollo Hospital, New Delhi</item>
+        <item>Lilavati Hospital, Mumbai</item>
+        <item>Christian Medical College, Vellore</item>
+        <item>Tata Memorial Hospital, Mumbai</item>
+        <item>Postgraduate Institute of Medical Education and Research, Chandigarh</item>
+        <item>Jawaharlal Institute of Postgraduate Medical Education and Research, Puducherry</item>
+        <item>Sankara Nethralaya, Chennai</item>
+        <item>Kokilaben Hospital, Mumbai</item>
+        <item>Manipal Hospital, Bangalore</item>
+        <item>Apollo Hospitals, Bangalore</item>
+        <item>Hiranandani Hospital, Mumbai</item>
+        <item>Aditya Birla Memorial, Pune</item>
+        <item>BLK Super Specialty Hospital, Delhi</item>
+        <item>Saifee Hospital, Mumbai</item>
+        <item>Columbia Asia Hospital, Kolkata</item>
+        <item>Sri Ramachandra Medical Centre (SRMC), Chennai</item>
+        <item>Narayana Health, Bengaluru</item>
+        <item>King Edward Memorial Hospital</item>
+        <item>Gleneagles Global Hospital, Chennai</item>
+        <item>Nanavati Super Specialty Hospital, Mumbai</item>
+        <item>Dharamshila Narayana Superspeciality Hospital, Delhi</item>
+        <item>MIOT International, Chennai</item>
+        <item>Indian Spinal Injuries Centre, Delhi</item>
+        <item>NIMHANS (National Institute of Mental Health and Neurosciences)</item>
+        <item>Fortis Escorts Heart Institute – Okhla Road, Delhi</item>
+        <item>Medanta – The Medicity, Gurugram</item>
+        <item>CARE Foundation Hospital, Hyderabad</item>
+        <item>Ruby Hall Clinics, Pune</item>
+        <item>Apollo Gleneagles Hospital, Kolkata</item>
+        <item>Kamineni Hospitals, Hyderabad</item>
+        <item>Sir Ganga Ram Hospital, Delhi</item>
+        <item>The Bombay Hospital and Medical Research Centre, Mumbai</item>
+        <item>KLE’S Dr Prabhakar Kore Hospital, Belgaum</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274800873788",
+    "project_id": "inframedic-4bcaf",
+    "storage_bucket": "inframedic-4bcaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274800873788:android:c36f11a06574e165f8ce39",
+        "android_client_info": {
+          "package_name": "com.example.inframedic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274800873788-22haon2ipn89a0tk6eon0657eln05m2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJDQZwVxtW21Wy08OFkkuiDS6VEoc_EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274800873788-22haon2ipn89a0tk6eon0657eln05m2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
